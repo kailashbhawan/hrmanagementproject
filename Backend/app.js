@@ -1,3 +1,4 @@
+console.log("hello")
 const connection = require("./connection")
 const adminRoutes = require("./src/routes/adminrouter")
 const employeeRoutes = require("./src/routes/employeerouter");
